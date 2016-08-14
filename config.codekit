@@ -1,0 +1,4164 @@
+{
+"CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
+"creatorBuild": "19099",
+"files": {
+	"\/contacto.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/contacto.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/contacto.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/contacto.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/_bootstrap.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/_bootstrap.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/_bootstrap.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/_bootstrap.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/animate.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/animate.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/animate.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/animate.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/bootstrap.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/bootstrap.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/bootstrap.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/bootstrap.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/flexisel.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/flexisel.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/flexisel.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/flexisel.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/font-awesome.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/font-awesome.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/lg-fb-comment-box.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/lg-fb-comment-box.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/lg-fb-comment-box.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/lg-fb-comment-box.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/lg-transitions.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/lg-transitions.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/lg-transitions.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/lg-transitions.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/lightgallery.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/lightgallery.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/lightgallery.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/lightgallery.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/faviconos\/android-chrome-144x144.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14679,
+		"inputAbbreviatedPath": "\/faviconos\/android-chrome-144x144.png",
+		"outputAbbreviatedPath": "\/faviconos\/android-chrome-144x144.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/faviconos\/android-chrome-192x192.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21734,
+		"inputAbbreviatedPath": "\/faviconos\/android-chrome-192x192.png",
+		"outputAbbreviatedPath": "\/faviconos\/android-chrome-192x192.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/faviconos\/android-chrome-36x36.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2652,
+		"inputAbbreviatedPath": "\/faviconos\/android-chrome-36x36.png",
+		"outputAbbreviatedPath": "\/faviconos\/android-chrome-36x36.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/faviconos\/android-chrome-48x48.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3765,
+		"inputAbbreviatedPath": "\/faviconos\/android-chrome-48x48.png",
+		"outputAbbreviatedPath": "\/faviconos\/android-chrome-48x48.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/faviconos\/android-chrome-72x72.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6248,
+		"inputAbbreviatedPath": "\/faviconos\/android-chrome-72x72.png",
+		"outputAbbreviatedPath": "\/faviconos\/android-chrome-72x72.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/faviconos\/android-chrome-96x96.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8830,
+		"inputAbbreviatedPath": "\/faviconos\/android-chrome-96x96.png",
+		"outputAbbreviatedPath": "\/faviconos\/android-chrome-96x96.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/faviconos\/apple-touch-icon-114x114.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13468,
+		"inputAbbreviatedPath": "\/faviconos\/apple-touch-icon-114x114.png",
+		"outputAbbreviatedPath": "\/faviconos\/apple-touch-icon-114x114.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/faviconos\/apple-touch-icon-120x120.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14171,
+		"inputAbbreviatedPath": "\/faviconos\/apple-touch-icon-120x120.png",
+		"outputAbbreviatedPath": "\/faviconos\/apple-touch-icon-120x120.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/faviconos\/apple-touch-icon-144x144.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17829,
+		"inputAbbreviatedPath": "\/faviconos\/apple-touch-icon-144x144.png",
+		"outputAbbreviatedPath": "\/faviconos\/apple-touch-icon-144x144.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/faviconos\/apple-touch-icon-152x152.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19165,
+		"inputAbbreviatedPath": "\/faviconos\/apple-touch-icon-152x152.png",
+		"outputAbbreviatedPath": "\/faviconos\/apple-touch-icon-152x152.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/faviconos\/apple-touch-icon-180x180.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23562,
+		"inputAbbreviatedPath": "\/faviconos\/apple-touch-icon-180x180.png",
+		"outputAbbreviatedPath": "\/faviconos\/apple-touch-icon-180x180.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/faviconos\/apple-touch-icon-57x57.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6008,
+		"inputAbbreviatedPath": "\/faviconos\/apple-touch-icon-57x57.png",
+		"outputAbbreviatedPath": "\/faviconos\/apple-touch-icon-57x57.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/faviconos\/apple-touch-icon-60x60.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6462,
+		"inputAbbreviatedPath": "\/faviconos\/apple-touch-icon-60x60.png",
+		"outputAbbreviatedPath": "\/faviconos\/apple-touch-icon-60x60.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/faviconos\/apple-touch-icon-72x72.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7886,
+		"inputAbbreviatedPath": "\/faviconos\/apple-touch-icon-72x72.png",
+		"outputAbbreviatedPath": "\/faviconos\/apple-touch-icon-72x72.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/faviconos\/apple-touch-icon-76x76.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8434,
+		"inputAbbreviatedPath": "\/faviconos\/apple-touch-icon-76x76.png",
+		"outputAbbreviatedPath": "\/faviconos\/apple-touch-icon-76x76.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/faviconos\/apple-touch-icon-precomposed.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26062,
+		"inputAbbreviatedPath": "\/faviconos\/apple-touch-icon-precomposed.png",
+		"outputAbbreviatedPath": "\/faviconos\/apple-touch-icon-precomposed.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/faviconos\/apple-touch-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23562,
+		"inputAbbreviatedPath": "\/faviconos\/apple-touch-icon.png",
+		"outputAbbreviatedPath": "\/faviconos\/apple-touch-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/faviconos\/favicon-16x16.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1412,
+		"inputAbbreviatedPath": "\/faviconos\/favicon-16x16.png",
+		"outputAbbreviatedPath": "\/faviconos\/favicon-16x16.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/faviconos\/favicon-32x32.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2320,
+		"inputAbbreviatedPath": "\/faviconos\/favicon-32x32.png",
+		"outputAbbreviatedPath": "\/faviconos\/favicon-32x32.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/faviconos\/favicon-96x96.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8830,
+		"inputAbbreviatedPath": "\/faviconos\/favicon-96x96.png",
+		"outputAbbreviatedPath": "\/faviconos\/favicon-96x96.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/faviconos\/manifest.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/faviconos\/manifest.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/faviconos\/manifest-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/faviconos\/mstile-144x144.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14747,
+		"inputAbbreviatedPath": "\/faviconos\/mstile-144x144.png",
+		"outputAbbreviatedPath": "\/faviconos\/mstile-144x144.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/faviconos\/mstile-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13716,
+		"inputAbbreviatedPath": "\/faviconos\/mstile-150x150.png",
+		"outputAbbreviatedPath": "\/faviconos\/mstile-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/faviconos\/mstile-310x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14677,
+		"inputAbbreviatedPath": "\/faviconos\/mstile-310x150.png",
+		"outputAbbreviatedPath": "\/faviconos\/mstile-310x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/faviconos\/mstile-310x310.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36850,
+		"inputAbbreviatedPath": "\/faviconos\/mstile-310x310.png",
+		"outputAbbreviatedPath": "\/faviconos\/mstile-310x310.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/faviconos\/mstile-70x70.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8973,
+		"inputAbbreviatedPath": "\/faviconos\/mstile-70x70.png",
+		"outputAbbreviatedPath": "\/faviconos\/mstile-70x70.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/galeria.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/galeria\/20151005070755.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 524066,
+		"inputAbbreviatedPath": "\/galeria\/20151005070755.jpg",
+		"outputAbbreviatedPath": "\/galeria\/20151005070755.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/20151005071336.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 439044,
+		"inputAbbreviatedPath": "\/galeria\/20151005071336.jpg",
+		"outputAbbreviatedPath": "\/galeria\/20151005071336.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/20151005073530.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 600339,
+		"inputAbbreviatedPath": "\/galeria\/20151005073530.jpg",
+		"outputAbbreviatedPath": "\/galeria\/20151005073530.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/20151005074130.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 524300,
+		"inputAbbreviatedPath": "\/galeria\/20151005074130.jpg",
+		"outputAbbreviatedPath": "\/galeria\/20151005074130.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/20151005074234.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 443754,
+		"inputAbbreviatedPath": "\/galeria\/20151005074234.jpg",
+		"outputAbbreviatedPath": "\/galeria\/20151005074234.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 191190,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_1.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108405,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_10.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_11.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 154789,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_11.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_11.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 119458,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_12.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_13.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 139486,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_13.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_13.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_14.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99044,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_14.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_14.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_15.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 192133,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_15.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_15.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_16.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14016,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_16.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_16.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_17.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17283,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_17.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_17.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_18.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106412,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_18.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_18.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_19.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93453,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_19.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_19.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 184831,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_2.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_20.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97928,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_20.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_20.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_21.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 113625,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_21.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_21.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_22.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 137293,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_22.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_22.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_23.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 110355,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_23.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_23.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_24.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91860,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_24.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_24.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_25.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91280,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_25.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_25.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_26.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 153568,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_26.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_26.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_27.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98567,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_27.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_27.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_28.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 116960,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_28.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_28.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_29.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 101347,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_29.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_29.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 172048,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_3.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_30.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84341,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_30.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_30.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_31.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 124622,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_31.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_31.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_32.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 109473,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_32.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_32.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_33.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 163733,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_33.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_33.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_34.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 118160,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_34.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_34.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_35.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 113636,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_35.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_35.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_36.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80720,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_36.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_36.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_37.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 165220,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_37.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_37.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_38.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 152177,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_38.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_38.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_39.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 173841,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_39.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_39.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 182231,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_4.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_40.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 159046,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_40.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_40.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_41.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 163689,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_41.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_41.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_42.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 321131,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_42.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_42.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_43.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 163914,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_43.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_43.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_44.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 158209,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_44.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_44.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_45.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 158545,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_45.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_45.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_46.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 161743,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_46.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_46.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_47.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 163600,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_47.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_47.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_48.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 151665,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_48.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_48.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_49.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 190544,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_49.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_49.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 194377,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_5.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_50.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 153486,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_50.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_50.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_51.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 152724,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_51.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_51.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_52.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 151467,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_52.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_52.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_53.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 149780,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_53.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_53.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_54.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 149521,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_54.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_54.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_55.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108392,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_55.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_55.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_56.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 136362,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_56.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_56.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_57.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 118451,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_57.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_57.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_58.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120696,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_58.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_58.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_59.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123865,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_59.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_59.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 188335,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_6.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_60.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 143151,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_60.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_60.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_61.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 137116,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_61.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_61.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_62.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 168455,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_62.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_62.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_63.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 131357,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_63.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_63.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_64.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160446,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_64.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_64.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_65.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 151516,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_65.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_65.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_66.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 177812,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_66.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_66.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_67.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 161424,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_67.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_67.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_68.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 144120,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_68.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_68.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_69.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123626,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_69.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_69.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47373,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_7.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_70.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107199,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_70.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_70.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_71.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 137482,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_71.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_71.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_72.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 118280,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_72.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_72.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_73.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106583,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_73.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_73.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_74.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39142,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_74.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_74.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_75.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66503,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_75.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_75.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39219,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_8.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/galeria\/galeria_audio_nativo_9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35304,
+		"inputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_9.jpg",
+		"outputAbbreviatedPath": "\/galeria\/galeria\/galeria_audio_nativo_9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21718,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_1.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17155,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_10.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_11.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18309,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_11.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_11.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15360,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_12.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_13.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16824,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_13.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_13.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_14.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12824,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_14.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_14.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_15.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22666,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_15.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_15.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_16.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3067,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_16.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_16.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_17.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3903,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_17.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_17.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_18.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13714,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_18.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_18.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_19.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11475,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_19.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_19.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20871,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_2.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_20.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11791,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_20.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_20.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_21.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13791,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_21.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_21.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_22.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14678,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_22.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_22.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_23.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14545,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_23.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_23.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_24.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11584,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_24.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_24.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_25.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11622,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_25.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_25.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_26.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20161,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_26.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_26.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_27.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13748,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_27.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_27.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_28.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14134,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_28.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_28.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_29.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13282,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_29.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_29.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21100,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_3.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_30.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12073,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_30.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_30.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_31.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17648,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_31.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_31.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_32.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17387,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_32.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_32.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_33.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27912,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_33.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_33.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_34.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18224,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_34.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_34.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_35.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18972,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_35.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_35.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_36.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13024,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_36.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_36.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_37.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16798,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_37.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_37.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_38.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20824,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_38.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_38.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_39.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25400,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_39.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_39.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18152,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_4.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_40.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24352,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_40.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_40.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_41.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24220,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_41.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_41.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_42.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41290,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_42.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_42.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_43.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21391,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_43.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_43.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_44.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21891,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_44.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_44.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_45.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18903,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_45.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_45.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_46.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21856,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_46.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_46.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_47.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17803,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_47.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_47.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_48.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21338,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_48.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_48.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_49.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25659,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_49.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_49.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20859,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_5.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_50.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17606,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_50.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_50.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_51.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18950,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_51.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_51.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_52.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17266,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_52.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_52.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_53.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17738,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_53.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_53.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_54.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20269,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_54.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_54.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_55.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16570,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_55.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_55.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_56.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19565,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_56.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_56.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_57.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17991,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_57.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_57.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_58.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14978,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_58.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_58.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_59.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15859,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_59.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_59.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20297,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_6.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_60.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20198,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_60.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_60.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_61.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20012,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_61.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_61.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_62.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24037,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_62.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_62.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_63.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19638,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_63.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_63.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_64.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19531,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_64.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_64.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_65.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19217,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_65.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_65.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_66.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21246,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_66.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_66.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_67.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19149,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_67.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_67.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_68.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16338,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_68.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_68.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_69.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19527,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_69.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_69.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9301,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_7.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_70.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19249,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_70.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_70.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_71.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21152,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_71.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_71.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_72.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18528,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_72.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_72.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_73.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18511,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_73.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_73.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_74.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9883,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_74.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_74.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_75.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66503,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_75.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_75.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8557,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_8.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/galeria\/thumb\/galeria_audio_nativo_9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7848,
+		"inputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_9.jpg",
+		"outputAbbreviatedPath": "\/galeria\/thumb\/galeria_audio_nativo_9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/head.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/head.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/images\/button-next.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 589,
+		"inputAbbreviatedPath": "\/images\/button-next.png",
+		"outputAbbreviatedPath": "\/images\/button-next.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/button-previous.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 603,
+		"inputAbbreviatedPath": "\/images\/button-previous.png",
+		"outputAbbreviatedPath": "\/images\/button-previous.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6318,
+		"inputAbbreviatedPath": "\/img\/1.png",
+		"outputAbbreviatedPath": "\/img\/1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 164123,
+		"inputAbbreviatedPath": "\/img\/2.png",
+		"outputAbbreviatedPath": "\/img\/2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/an.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 488623,
+		"inputAbbreviatedPath": "\/img\/an.jpg",
+		"outputAbbreviatedPath": "\/img\/an.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/baker20.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8026,
+		"inputAbbreviatedPath": "\/img\/baker20.png",
+		"outputAbbreviatedPath": "\/img\/baker20.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/barcelona-519968_1280.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 341625,
+		"inputAbbreviatedPath": "\/img\/barcelona-519968_1280.jpg",
+		"outputAbbreviatedPath": "\/img\/barcelona-519968_1280.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/bride-454144_1280.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 236073,
+		"inputAbbreviatedPath": "\/img\/bride-454144_1280.jpg",
+		"outputAbbreviatedPath": "\/img\/bride-454144_1280.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/claudio.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51614,
+		"inputAbbreviatedPath": "\/img\/claudio.jpg",
+		"outputAbbreviatedPath": "\/img\/claudio.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/dj.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 208078,
+		"inputAbbreviatedPath": "\/img\/dj.jpg",
+		"outputAbbreviatedPath": "\/img\/dj.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/flowers-260898_1280.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 415351,
+		"inputAbbreviatedPath": "\/img\/flowers-260898_1280.jpg",
+		"outputAbbreviatedPath": "\/img\/flowers-260898_1280.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/guitarist-249915_1280.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 199324,
+		"inputAbbreviatedPath": "\/img\/guitarist-249915_1280.jpg",
+		"outputAbbreviatedPath": "\/img\/guitarist-249915_1280.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/lines-dr-bg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 166,
+		"inputAbbreviatedPath": "\/img\/lines-dr-bg.png",
+		"outputAbbreviatedPath": "\/img\/lines-dr-bg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/logo_audionativo.ext.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26648,
+		"inputAbbreviatedPath": "\/img\/logo_audionativo.ext.png",
+		"outputAbbreviatedPath": "\/img\/logo_audionativo.ext.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/logo_audionativo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 179734,
+		"inputAbbreviatedPath": "\/img\/logo_audionativo.png",
+		"outputAbbreviatedPath": "\/img\/logo_audionativo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/man204.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12093,
+		"inputAbbreviatedPath": "\/img\/man204.png",
+		"outputAbbreviatedPath": "\/img\/man204.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/music283.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8605,
+		"inputAbbreviatedPath": "\/img\/music283.png",
+		"outputAbbreviatedPath": "\/img\/music283.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/novia.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11641,
+		"inputAbbreviatedPath": "\/img\/novia.jpg",
+		"outputAbbreviatedPath": "\/img\/novia.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/placeholder-image-sq.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2853,
+		"inputAbbreviatedPath": "\/img\/placeholder-image-sq.png",
+		"outputAbbreviatedPath": "\/img\/placeholder-image-sq.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/placeholder-user.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2348,
+		"inputAbbreviatedPath": "\/img\/placeholder-user.png",
+		"outputAbbreviatedPath": "\/img\/placeholder-user.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/rodrigo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44665,
+		"inputAbbreviatedPath": "\/img\/rodrigo.jpg",
+		"outputAbbreviatedPath": "\/img\/rodrigo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_1\/banda.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23196,
+		"inputAbbreviatedPath": "\/img\/slider_1\/banda.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_1\/banda.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_1\/equipos.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26721,
+		"inputAbbreviatedPath": "\/img\/slider_1\/equipos.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_1\/equipos.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_1\/luces.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9994,
+		"inputAbbreviatedPath": "\/img\/slider_1\/luces.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_1\/luces.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_1\/mesa.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17087,
+		"inputAbbreviatedPath": "\/img\/slider_1\/mesa.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_1\/mesa.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_1\/mesa2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21006,
+		"inputAbbreviatedPath": "\/img\/slider_1\/mesa2.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_1\/mesa2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_1\/pista.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14842,
+		"inputAbbreviatedPath": "\/img\/slider_1\/pista.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_1\/pista.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_2\/cantante.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15723,
+		"inputAbbreviatedPath": "\/img\/slider_2\/cantante.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_2\/cantante.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_2\/equipos.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19733,
+		"inputAbbreviatedPath": "\/img\/slider_2\/equipos.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_2\/equipos.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_2\/fiesta.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24036,
+		"inputAbbreviatedPath": "\/img\/slider_2\/fiesta.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_2\/fiesta.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_2\/mesa.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10587,
+		"inputAbbreviatedPath": "\/img\/slider_2\/mesa.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_2\/mesa.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_2\/pista.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20316,
+		"inputAbbreviatedPath": "\/img\/slider_2\/pista.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_2\/pista.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_2\/tecladista.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14333,
+		"inputAbbreviatedPath": "\/img\/slider_2\/tecladista.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_2\/tecladista.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_3\/banda.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19581,
+		"inputAbbreviatedPath": "\/img\/slider_3\/banda.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_3\/banda.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_3\/banda2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26694,
+		"inputAbbreviatedPath": "\/img\/slider_3\/banda2.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_3\/banda2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_3\/equipos.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30147,
+		"inputAbbreviatedPath": "\/img\/slider_3\/equipos.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_3\/equipos.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_3\/mesa.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24282,
+		"inputAbbreviatedPath": "\/img\/slider_3\/mesa.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_3\/mesa.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_3\/pista.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25901,
+		"inputAbbreviatedPath": "\/img\/slider_3\/pista.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_3\/pista.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_3\/tambores.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31312,
+		"inputAbbreviatedPath": "\/img\/slider_3\/tambores.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_3\/tambores.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_4\/banda.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21322,
+		"inputAbbreviatedPath": "\/img\/slider_4\/banda.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_4\/banda.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_4\/equipo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25036,
+		"inputAbbreviatedPath": "\/img\/slider_4\/equipo.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_4\/equipo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_4\/equipos2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21343,
+		"inputAbbreviatedPath": "\/img\/slider_4\/equipos2.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_4\/equipos2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_4\/mesas.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21039,
+		"inputAbbreviatedPath": "\/img\/slider_4\/mesas.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_4\/mesas.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_4\/mezclador.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19552,
+		"inputAbbreviatedPath": "\/img\/slider_4\/mezclador.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_4\/mezclador.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_4\/parlante.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29762,
+		"inputAbbreviatedPath": "\/img\/slider_4\/parlante.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_4\/parlante.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_5\/dj1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27276,
+		"inputAbbreviatedPath": "\/img\/slider_5\/dj1.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_5\/dj1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_5\/dj2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33843,
+		"inputAbbreviatedPath": "\/img\/slider_5\/dj2.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_5\/dj2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_5\/dj3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27178,
+		"inputAbbreviatedPath": "\/img\/slider_5\/dj3.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_5\/dj3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_5\/dj4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22838,
+		"inputAbbreviatedPath": "\/img\/slider_5\/dj4.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_5\/dj4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_5\/dj5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21472,
+		"inputAbbreviatedPath": "\/img\/slider_5\/dj5.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_5\/dj5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_5\/dj6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30094,
+		"inputAbbreviatedPath": "\/img\/slider_5\/dj6.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_5\/dj6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slider_5\/dj7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29566,
+		"inputAbbreviatedPath": "\/img\/slider_5\/dj7.jpg",
+		"outputAbbreviatedPath": "\/img\/slider_5\/dj7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/speakers.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9362,
+		"inputAbbreviatedPath": "\/img\/speakers.png",
+		"outputAbbreviatedPath": "\/img\/speakers.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Teleguia-El_Topo-El_Topo_de_Fiesta_LNCIMA20141003_0188_27.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73994,
+		"inputAbbreviatedPath": "\/img\/Teleguia-El_Topo-El_Topo_de_Fiesta_LNCIMA20141003_0188_27.jpg",
+		"outputAbbreviatedPath": "\/img\/Teleguia-El_Topo-El_Topo_de_Fiesta_LNCIMA20141003_0188_27.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/video-play.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4526,
+		"inputAbbreviatedPath": "\/img\/video-play.png",
+		"outputAbbreviatedPath": "\/img\/video-play.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vimeo-play.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5428,
+		"inputAbbreviatedPath": "\/img\/vimeo-play.png",
+		"outputAbbreviatedPath": "\/img\/vimeo-play.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vinilo_claudio_rojas.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52613,
+		"inputAbbreviatedPath": "\/img\/vinilo_claudio_rojas.png",
+		"outputAbbreviatedPath": "\/img\/vinilo_claudio_rojas.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vinilo_rodrigo_garay.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52892,
+		"inputAbbreviatedPath": "\/img\/vinilo_rodrigo_garay.png",
+		"outputAbbreviatedPath": "\/img\/vinilo_rodrigo_garay.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wallpaper.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 353206,
+		"inputAbbreviatedPath": "\/img\/wallpaper.jpg",
+		"outputAbbreviatedPath": "\/img\/wallpaper.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/youtube-play.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5177,
+		"inputAbbreviatedPath": "\/img\/youtube-play.png",
+		"outputAbbreviatedPath": "\/img\/youtube-play.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/js\/blocs.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/blocs.js",
+		"outputAbbreviatedPath": "\/js\/min\/blocs-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/blocs.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/blocs.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/blocs.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/bootstrap.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/bootstrap.js",
+		"outputAbbreviatedPath": "\/js\/min\/bootstrap-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/bootstrap.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/bootstrap.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/bootstrap.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/formHandler.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/formHandler.js",
+		"outputAbbreviatedPath": "\/js\/min\/formHandler-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/jqBootstrapValidation.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/jqBootstrapValidation.js",
+		"outputAbbreviatedPath": "\/js\/min\/jqBootstrapValidation-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/jquery-2.1.0.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/jquery-2.1.0.js",
+		"outputAbbreviatedPath": "\/js\/min\/jquery-2.1.0-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/jquery-2.1.0.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/jquery-2.1.0.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/jquery-2.1.0.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/jquery.flexisel.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/jquery.flexisel.js",
+		"outputAbbreviatedPath": "\/js\/min\/jquery.flexisel-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/jquery.flexisel.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/jquery.flexisel.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/jquery.flexisel.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/lg-autoplay.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/lg-autoplay.js",
+		"outputAbbreviatedPath": "\/js\/min\/lg-autoplay-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/lg-autoplay.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/lg-autoplay.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/lg-autoplay.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/lg-fullscreen.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/lg-fullscreen.js",
+		"outputAbbreviatedPath": "\/js\/min\/lg-fullscreen-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/lg-fullscreen.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/lg-fullscreen.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/lg-fullscreen.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/lg-hash.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/lg-hash.js",
+		"outputAbbreviatedPath": "\/js\/min\/lg-hash-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/lg-hash.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/lg-hash.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/lg-hash.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/lg-pager.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/lg-pager.js",
+		"outputAbbreviatedPath": "\/js\/min\/lg-pager-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/lg-pager.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/lg-pager.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/lg-pager.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/lg-thumbnail.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/lg-thumbnail.js",
+		"outputAbbreviatedPath": "\/js\/min\/lg-thumbnail-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/lg-thumbnail.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/lg-thumbnail.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/lg-thumbnail.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/lg-video.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/lg-video.js",
+		"outputAbbreviatedPath": "\/js\/min\/lg-video-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/lg-video.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/lg-video.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/lg-video.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/lg-zoom.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/lg-zoom.js",
+		"outputAbbreviatedPath": "\/js\/min\/lg-zoom-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/lg-zoom.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/lg-zoom.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/lg-zoom.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/lightgallery-all.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/lightgallery-all.js",
+		"outputAbbreviatedPath": "\/js\/min\/lightgallery-all-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/lightgallery-all.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/lightgallery-all.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/lightgallery-all.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/lightgallery.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/lightgallery.js",
+		"outputAbbreviatedPath": "\/js\/min\/lightgallery-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/lightgallery.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/lightgallery.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/lightgallery.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/blocs-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/blocs-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/blocs-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/bootstrap-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/bootstrap-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/bootstrap-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/jquery-2.1.0-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/jquery-2.1.0-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/jquery-2.1.0-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/jquery-2.1.0.min-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/jquery-2.1.0.min-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/jquery-2.1.0.min-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/jquery.flexisel-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/jquery.flexisel-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/jquery.flexisel-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/kit\/contacto.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/contacto.kit",
+		"outputAbbreviatedPath": "\/contacto.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/footer.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/footer.kit",
+		"outputAbbreviatedPath": "\/footer.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/galeria.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/galeria.kit",
+		"outputAbbreviatedPath": "\/galeria.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/head.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/head.kit",
+		"outputAbbreviatedPath": "\/head.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/index.kit",
+		"outputAbbreviatedPath": "\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/menu.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/menu.kit",
+		"outputAbbreviatedPath": "\/menu.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/quienes-somos.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/quienes-somos.kit",
+		"outputAbbreviatedPath": "\/quienes-somos.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/servicios.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/servicios.kit",
+		"outputAbbreviatedPath": "\/servicios.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/videos.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/videos.kit",
+		"outputAbbreviatedPath": "\/videos.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/quienes-somos.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/quienes-somos.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/servicios.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/servicios.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/style.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/style.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/videos.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/videos.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/videos\/audionativo_poster.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 239061,
+		"inputAbbreviatedPath": "\/videos\/audionativo_poster.jpg",
+		"outputAbbreviatedPath": "\/videos\/audionativo_poster.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/videos\/video-poster1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58426,
+		"inputAbbreviatedPath": "\/videos\/video-poster1.jpg",
+		"outputAbbreviatedPath": "\/videos\/video-poster1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		}
+	},
+"hooks": [
+	],
+"lastSavedByUser": "Jaime",
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"bowerAbbreviatedPath": "",
+	"displayValue": "audionativo",
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "harddrive_darkGray"
+	},
+"projectSettings": {
+	"alwaysUseExternalServer": 0,
+	"animateCSSInjections": 1,
+	"autoApplyPSLanguageSettingsStyle": 0,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoSyncProjectSettingsFile": 1,
+	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathEnabled": 1,
+	"coffeeAutoOutputPathFilenamePattern": "*.js",
+	"coffeeAutoOutputPathRelativePath": "",
+	"coffeeAutoOutputPathReplace1": "",
+	"coffeeAutoOutputPathReplace2": "",
+	"coffeeAutoOutputPathStyle": 0,
+	"coffeeCreateSourceMap": 0,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"ensure_comprehensions": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_nested_string_interpolation": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_private_function_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"spacing_after_comma": {
+			"active": 1,
+			"flagValue": -1
+			}
+		},
+	"coffeeMinifyOutput": 1,
+	"coffeeOutputStyle": 0,
+	"coffeeSyntaxCheckerStyle": 1,
+	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerPreviewPathAddition": "",
+	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathEnabled": 1,
+	"hamlAutoOutputPathFilenamePattern": "*.html",
+	"hamlAutoOutputPathRelativePath": "",
+	"hamlAutoOutputPathReplace1": "",
+	"hamlAutoOutputPathReplace2": "",
+	"hamlAutoOutputPathStyle": 0,
+	"hamlEscapeHTMLCharacters": 0,
+	"hamlNoEscapeInAttributes": 0,
+	"hamlOutputFormat": 2,
+	"hamlOutputStyle": 0,
+	"hamlUseCDATA": 0,
+	"hamlUseDoubleQuotes": 0,
+	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathEnabled": 1,
+	"jadeAutoOutputPathFilenamePattern": "*.html",
+	"jadeAutoOutputPathRelativePath": "",
+	"jadeAutoOutputPathReplace1": "",
+	"jadeAutoOutputPathReplace2": "",
+	"jadeAutoOutputPathStyle": 0,
+	"jadeCompileDebug": 1,
+	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathEnabled": 1,
+	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
+	"javascriptAutoOutputPathRelativePath": "\/min",
+	"javascriptAutoOutputPathReplace1": "",
+	"javascriptAutoOutputPathReplace2": "",
+	"javascriptAutoOutputPathStyle": 2,
+	"javascriptCreateSourceMap": 1,
+	"javascriptOutputStyle": 1,
+	"javascriptSyntaxCheckerStyle": 1,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"browserify": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"elision": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"futurehostile": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jasmine": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mocha": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nocomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"qunit": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"singleGroups": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"varstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es6": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"for": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsonAutoOutputPathEnabled": 0,
+	"jsonAutoOutputPathFilenamePattern": "*-min.json",
+	"jsonAutoOutputPathRelativePath": "",
+	"jsonAutoOutputPathReplace1": "",
+	"jsonAutoOutputPathReplace2": "",
+	"jsonAutoOutputPathStyle": 0,
+	"jsonOrderOutput": 0,
+	"jsonOutputStyle": 1,
+	"kitAutoOutputPathEnabled": 1,
+	"kitAutoOutputPathFilenamePattern": "*.html",
+	"kitAutoOutputPathRelativePath": "",
+	"kitAutoOutputPathReplace1": "",
+	"kitAutoOutputPathReplace2": "",
+	"kitAutoOutputPathStyle": 1,
+	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathEnabled": 1,
+	"lessAutoOutputPathFilenamePattern": "*.css",
+	"lessAutoOutputPathRelativePath": "..\/css",
+	"lessAutoOutputPathReplace1": "less",
+	"lessAutoOutputPathReplace2": "css",
+	"lessAutoOutputPathStyle": 2,
+	"lessCreateSourceMap": 0,
+	"lessDisableJavascript": 0,
+	"lessIeCompatibility": 1,
+	"lessOutputStyle": 0,
+	"lessRelativeURLS": 0,
+	"lessStrictImports": 0,
+	"lessStrictMath": 0,
+	"lessStrictUnits": 0,
+	"markdownAutoOutputPathEnabled": 1,
+	"markdownAutoOutputPathFilenamePattern": "*.html",
+	"markdownAutoOutputPathRelativePath": "",
+	"markdownAutoOutputPathReplace1": "",
+	"markdownAutoOutputPathReplace2": "",
+	"markdownAutoOutputPathStyle": 0,
+	"markdownCriticStyle": 0,
+	"markdownEnableFootnotes": 1,
+	"markdownEnableLabels": 1,
+	"markdownEnableSmartQuotes": 1,
+	"markdownEscapeLineBreaks": 0,
+	"markdownMaskEmailAddresses": 1,
+	"markdownOutputFormat": 0,
+	"markdownOutputStyle": 0,
+	"markdownParseMetadata": 1,
+	"markdownProcessHTML": 0,
+	"markdownRandomFootnoteNumbers": 0,
+	"markdownUseCompatibilityMode": 0,
+	"reloadFileURLs": 0,
+	"sassAutoOutputPathEnabled": 1,
+	"sassAutoOutputPathFilenamePattern": "*.css",
+	"sassAutoOutputPathRelativePath": "..\/css",
+	"sassAutoOutputPathReplace1": "sass",
+	"sassAutoOutputPathReplace2": "css",
+	"sassAutoOutputPathStyle": 2,
+	"sassCreateSourceMap": 0,
+	"sassDebugStyle": 0,
+	"sassDecimalPrecision": 10,
+	"sassOutputStyle": 0,
+	"sassUseLibsass": 0,
+	"shouldRunAutoprefixer": 0,
+	"shouldRunBless": 0,
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs, node_modules",
+	"slimAutoOutputPathEnabled": 1,
+	"slimAutoOutputPathFilenamePattern": "*.html",
+	"slimAutoOutputPathRelativePath": "",
+	"slimAutoOutputPathReplace1": "",
+	"slimAutoOutputPathReplace2": "",
+	"slimAutoOutputPathStyle": 0,
+	"slimCompileOnly": 0,
+	"slimLogicless": 0,
+	"slimOutputFormat": 0,
+	"slimOutputStyle": 1,
+	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathEnabled": 1,
+	"stylusAutoOutputPathFilenamePattern": "*.css",
+	"stylusAutoOutputPathRelativePath": "..\/css",
+	"stylusAutoOutputPathReplace1": "stylus",
+	"stylusAutoOutputPathReplace2": "css",
+	"stylusAutoOutputPathStyle": 2,
+	"stylusCreateSourceMap": 0,
+	"stylusDebugStyle": 0,
+	"stylusImportCSS": 0,
+	"stylusOutputStyle": 0,
+	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathEnabled": 1,
+	"typescriptAutoOutputPathFilenamePattern": "*.js",
+	"typescriptAutoOutputPathRelativePath": "\/js",
+	"typescriptAutoOutputPathReplace1": "",
+	"typescriptAutoOutputPathReplace2": "",
+	"typescriptAutoOutputPathStyle": 2,
+	"typescriptCreateDeclarationFile": 0,
+	"typescriptCreateSourceMap": 0,
+	"typescriptJSXMode": 0,
+	"typescriptMinifyOutput": 0,
+	"typescriptModuleResolutionType": 0,
+	"typescriptModuleType": 0,
+	"typescriptNoImplicitAny": 0,
+	"typescriptPreserveConstEnums": 0,
+	"typescriptRemoveComments": 0,
+	"typescriptSuppressImplicitAnyIndexErrors": 0,
+	"typescriptTargetECMAVersion": 0,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bare-returns": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_console": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"keep_fargs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_fnames": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"negate_iife": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"pure_getters": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "2"
+}
